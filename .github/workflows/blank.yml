@@ -13,4 +13,4 @@ wait seconds=10
 TAG POS=1 TYPE=VIDEO ATTR=SRC:https://138.201.51.97/s8/2/a/K/R/n/aKRnj.caa.mp4?u=3&b=0&__cpo=aHR0cHM6Ly9zcC5ybWJsLndz
 wait seconds=10
 TAG POS=1 TYPE=DIV ATTR=CLASS:bigPlayUIInner<SP>ctp&&__CPORIGINALVALUEOFINNERHTML:<svg<SP>style="stroke:currentColor;"<SP>class="RumbleElm<SP>RumbleSVG-bplay"<SP>xmlns="http://www.w3.org/2000/svg"<SP>xmlns:xlink="http://www.w3.org/1999/xlink"<SP>width="25px"<SP>height="25px"<SP>viewBox="0<SP>0<SP>22<SP>22"><path<SP>stroke-width="3"<SP>stroke-linejoin="round"<SP>d="M19<SP>11L3.2<SP>1.5v19z"/></svg>&&__CPP:1
-wait seconds=120
+wait seconds=12
