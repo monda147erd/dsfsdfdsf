@@ -3,12 +3,42 @@ SET !TIMEOUT_STEP 1
 SET !ERRORIGNORE YES
 SET !LOOP -1000000
 VERSION BUILD=1011 RECORDER=CR
-URL GOTO=https://www.croxyproxy.com/
-TAG POS=1 TYPE=INPUT:TEXT FORM=ID:request ATTR=ID:url CONTENT=https://rumble.com/v2k1jya-rescuing-a-mom-cat-and-her-kittens.html
+URL GOTO=https://www.youtubeunblocked.live/
+TAG POS=1 TYPE=INPUT:TEXT FORM=ID:request ATTR=ID:url CONTENT=https://ouo.io/hfVf7C
 wait seconds=10
 TAG POS=1 TYPE=BUTTON FORM=ID:request ATTR=ID:requestSubmit
-wait seconds=10
+wait seconds=5
 TAG POS=1 TYPE=VIDEO ATTR=SRC:https://138.201.51.97/s8/2/a/K/R/n/aKRnj.caa.mp4?u=3&b=0&__cpo=aHR0cHM6Ly9zcC5ybWJsLndz
+wait seconds=40
+wait seconds=30
+FRAME F=2
+TAG POS=1 TYPE=SPAN ATTR=TXT:Verify<SP>you<SP>are<SP>human
+TAG POS=1 TYPE=INPUT:CHECKBOX ATTR=* CONTENT=YES
+wait seconds=20
+FRAME F=2
+TAG POS=1 TYPE=SPAN ATTR=TXT:Verify<SP>you<SP>are<SP>human
+TAG POS=1 TYPE=INPUT:CHECKBOX ATTR=* CONTENT=YES
+wait seconds=20
+FRAME F=2
+TAG POS=1 TYPE=SPAN ATTR=TXT:Verify<SP>you<SP>are<SP>human
+TAG POS=1 TYPE=INPUT:CHECKBOX ATTR=* CONTENT=YES
+wait seconds=20
+FRAME F=2
+TAG POS=1 TYPE=SPAN ATTR=TXT:Verify<SP>you<SP>are<SP>human
+TAG POS=1 TYPE=INPUT:CHECKBOX ATTR=* CONTENT=YES
+wait seconds=20
+FRAME F=2
+TAG POS=1 TYPE=SPAN ATTR=TXT:Verify<SP>you<SP>are<SP>human
+TAG POS=1 TYPE=INPUT:CHECKBOX ATTR=* CONTENT=YES
+wait seconds=20
+FRAME F=2
+TAG POS=1 TYPE=SPAN ATTR=TXT:Verify<SP>you<SP>are<SP>human
+TAG POS=1 TYPE=INPUT:CHECKBOX ATTR=* CONTENT=YES
+wait seconds=20
+FRAME F=2
+TAG POS=1 TYPE=SPAN ATTR=TXT:Verify<SP>you<SP>are<SP>human
+TAG POS=1 TYPE=INPUT:CHECKBOX ATTR=* CONTENT=YES
+wait seconds=20
+TAG POS=1 TYPE=BUTTON FORM=ID:form-captcha ATTR=ID:btn-main
 wait seconds=10
-TAG POS=1 TYPE=DIV ATTR=CLASS:bigPlayUIInner<SP>ctp&&__CPORIGINALVALUEOFINNERHTML:<svg<SP>style="stroke:currentColor;"<SP>class="RumbleElm<SP>RumbleSVG-bplay"<SP>xmlns="http://www.w3.org/2000/svg"<SP>xmlns:xlink="http://www.w3.org/1999/xlink"<SP>width="25px"<SP>height="25px"<SP>viewBox="0<SP>0<SP>22<SP>22"><path<SP>stroke-width="3"<SP>stroke-linejoin="round"<SP>d="M19<SP>11L3.2<SP>1.5v19z"/></svg>&&__CPP:1
-wait seconds=12
+TAG POS=1 TYPE=BUTTON FORM=ID:form-go ATTR=ID:btn-main
